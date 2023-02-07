@@ -34,6 +34,6 @@ In this project, we had access to approximately 50 datasets. Each one contains r
 
 ## Summary
 
-Based on the results, Vine members did show bias when rating their products considering that the percent difference between the percentages of Vine user 5-star ratings vs. Non-Vine user 5-star ratings was about 27%. However, we have to take into account that Vine members only made up less than 1% of the total reviews. 99.77% of the total reviews are from Non-Vine users. For video game products, it seems like Vine users rarely took the oppportunity to give their reviews versus Non-Vine users. 
+Based on the results, Vine members did show bias when rating their products considering that the percent difference between the percentages of Vine user 5-star ratings vs. Non-Vine user 5-star ratings was about 27%. However, we have to take into account that Vine members only made up less than 1% of the total reviews. 99.77% of the total reviews are from Non-Vine users. For video game products, it seems like Vine users rarely took the opportunity to give their reviews versus Non-Vine users. 
 
 We also had filtered the total Vine user data to show those that have more than 20 reviews per user. In addition, we also filtered the data to show the reviews whose percentages of helpful reviews was greater than 50%. In order to possibly see another perspective is to include all of the data rather than adding those filters. Reviewing the data as is would give us more information and allow us to further support our assumption.
